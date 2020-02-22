@@ -3,7 +3,7 @@ This project leverage real-time object detection to detect threat. In this proje
 
 ## Dataset & Algorithm
 #### Dataset: ssd_mobilenet v2 coco
-#### Detection Algorithm: yolo-v3
+#### Detection Algorithm: (yolo-v3) [https://github.com/mystic123/tensorflow-yolo-v3.git]
 
 ## Steps to run this project
 
