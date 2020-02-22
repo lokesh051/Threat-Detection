@@ -26,8 +26,8 @@ python3 mo_tf.py
 ```
 python app.py -m /path/to/frozen_darknet_yolov3_model -ct 0.4
 ```
-Parameters
--m location of the IR model
--ct The confidence threshold to use with the bounding box. Default: 0.2
--d The device name, if not CPU. Default: CPU
+Parameters<br>
+-m location of the IR model<br>
+-ct The confidence threshold to use with the bounding box. Default: 0.2<br>
+-d The device name, if not CPU. Default: CPU<br>
 *Note: Do not add file extension after 'frozen_darknet_yolov3_model'*
